@@ -1,0 +1,8 @@
+Breakpoint 1 at 0xea: file source/main.c, line 25.
+Note: automatically using hardware breakpoints for read-only addresses.
+A debugging session is active.
+
+	Inferior 1 [Remote target] will be detached.
+
+Quit anyway? (y or n) Detaching from program: /home/csmajs/yxing024/Desktop/lab5/eg1/build/objects/main.elf, Remote target
+Quitting: Remote doesn't know how to detach
